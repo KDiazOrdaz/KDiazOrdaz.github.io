@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Karla DiazOrdaz",
+    "section": "",
+    "text": "I am a Principal Research Fellow in the Statistical Science Department at University College London and an honorary Professor of Biostatistics at the London School of Hygiene and Tropical Medicine. I am a Royal Society- Wellcome Trust Sir Henry Dale Fellow (2020-2025).\nMy research explores the potential of statistical machine learning in combination with causal inference methodology to assist in the medical and policy decisions. I oversee a small research group based at the Alan Turing Institute.\nOur work currently focuses on optimal policy learning (i.e. optimal treatment regimens), treatment effect heterogeneity and counterfactual prediction. This includes theoretical developments, novel methodology, and applied data science in policy evaluation, pharmaco-epidemiology and clinical trials."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Selected publications",
+    "section": "",
+    "text": "On locality of local explanation models Paper link\nDate: 2021\nAuthors: Ghalebikesabi S, Ter-Minassian L, DiazOrdaz K, & Holmes C.\nexcerpt: Shapley values provide model agnostic feature attributions for black-box models under a global population distribution. The use of a global population can be misleading when we are interested in local model behaviour. Hence we propose the use of neighbourhood reference distributions that improve the local interpretability."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Research",
+    "section": "",
+    "text": "Causal Inference\nMissing data methodology\nFairness and explainability\nClinical trials\npolicy evaluation and pharmaco-epidemiology\nMy work focuses on optimal policy learning (i.e. optimal treatment regimens), treatment effect heterogeneity and counterfactual prediction. I am particularly interested in orthogonalised estimators (exploiting influence-functions).\nI am also co-lead in a collaborative research project “Developing statistical machine learning methods for Clinical Trials” based at the Alan Turing Institute. We are building machine learning models to predict trial site risk of under-performing (in the sense of low quality data, high rate of missing data or higher than expected adverse events, for example).\nI am interested in studying fairness and explainability of prediction models and heterogeneous treatments effects (through the lens of causal inference)."
+  },
+  {
+    "objectID": "about.html#phd-supervision",
+    "href": "about.html#phd-supervision",
+    "title": "Research",
+    "section": "PhD supervision",
+    "text": "PhD supervision\nI am happy to supervise new PhD students starting in September 2024.\n\nCurrent students:\nMatt Pryce (2021 - present): MRC London Intercollegiate Doctoral scholarship studying double-robust methods with machine learning for survival analysis in high dimensional settings.\nRebecca Xu (2021- present) : ESRC Doctoral Scholarship studying extensions to target trial emulation for group policy evaluation, in collaboration with the Health Foundation.\n\n\nFormer PhD students:\nDr Oliver Hines (awarded 2023): ``Assumption-Lean Inference for Causal and Statistical Questions in the Era of Machine\nLearning’’ Funded by an MRC London Intercollegiate Doctoral scholarship (jointly supervised with Prof Stijn Vansteelandt)\nDr Schadrac Agbla (awarded 2019): Instrumental Variable methods for adjusting for nonadherence in cluster randomised trials (joint with Prof Bianca DeStavola).\nDr Anower Hossain (awarded 2017): Missing data methodology for cluster randomised trials (joint with Dr Jonathan Bartlett)."
+  },
+  {
+    "objectID": "about.html#other",
+    "href": "about.html#other",
+    "title": "Research",
+    "section": "Other",
+    "text": "Other\nI am a member of the steerting committee for the European Causal Inference Meeting (EuroCIM)."
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "Work experience\n\nOctober 2022: Principal Research Fellow\n\nStatistical Science Department, UCL\n\nAugust 2021: Professor of Biostatistics\n\nDepartment of Medical Statistics, London School of Hygiene and Tropical Medicine\nCo-director of Centre for Statistical Methodology\n\nAugust 2018 - 2021: Associate Professor\n\nLondon School of Hygiene and Tropical Medicine\n\n\n\n\nCurrent Funding\n\nCo-Investigator research grant ``Methods for fairness in clinical prediction modelling: data augmentation, doubly-robust procedures, and value-of-information analyses to evaluate and minimise biases’’. Funded by Alan Turing Institute and Roche March 2023 – Mar 2025\nSir Henry Dale Fellowship ``Machine learning for causal inference: developing modern tools for personalised optimal treatments’’ Wellcome Trust - Royal Society August 2020– October 2025.\nPrincipal Investigator, Research project ``Statistical machine learning for randomized clinical trials’’\nAlan Turing Institute research grant (funded by AI for Society programme, EPSRC strategic funding) January 2020– March 2023.\n\n\n\nService and leadership\n\nmember of the steering committee for the European Causal Inference Meeting EuroCIM\nassociate editor of Biometrics\npanel member for the MRC Career Development Awards (Clinical) 2020-2022"
+  }
+]

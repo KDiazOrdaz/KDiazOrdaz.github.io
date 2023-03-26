@@ -1,0 +1,33 @@
+---
+title: "Selected publications"
+editor: visual
+---
+
+1.  Debiased estimation:
+
+    *Demystifying Statistical Learning Based on Efficient Influence Functions* [Paper link](https://www.tandfonline.com/doi/abs/10.1080/00031305.2021.2021984)
+
+    **Date**: 2022
+
+    **Authors:** Hines O, Dukes O, Diaz-Ordaz K & Vansteelandt S
+
+    **excerpt:** This paper is about calculating efficient influence functions and using them to define debiased estimators that can use machine learning to estimate nuisance functionals.
+
+2.  Explainability and interpretability of causal effects:
+
+    *Variable importance measures for heterogeneous causal effects* [Paper link](https://doi.org/10.48550/arXiv.2204.06030)
+
+    **Authors:** Hines O, Diaz-Ordaz K & Vansteelandt S
+
+    **excerpt:** We present new nonparametric treatment effect variable importance measures (TE-VIMs). TE-VIMs can be viewed as nonparametric analogues to ANOVA but applied to a causal quantity. These may guide clinicians as to which patient characteristics are important to consider when making treatment decisions, and help researchers stratify patient populations for further study.
+
+```{=html}
+<!-- -->
+```
+3.  On locality of local explanation models [Paper link](https://proceedings.neurips.cc/paper_files/paper/2021/file/995665640dc319973d3173a74a03860c-Paper.pdf)
+
+    **Date:** 2021
+
+    **Authors:** Ghalebikesabi S, Ter-Minassian L, DiazOrdaz K, & Holmes C.
+
+    **excerpt:** Shapley values provide model agnostic feature attributions for black-box models under a global population distribution. The use of a global population can be misleading when we are interested in local model behaviour. Hence we propose the use of neighbourhood reference distributions that improve the local interpretability.

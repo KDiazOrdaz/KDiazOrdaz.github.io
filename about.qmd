@@ -1,0 +1,39 @@
+---
+title: "Research"
+---
+
+-   Causal Inference
+-   Missing data methodology
+-   Fairness and explainability
+-   Clinical trials
+-   policy evaluation and pharmaco-epidemiology
+
+My work focuses on optimal policy learning (i.e. optimal treatment regimens), treatment effect heterogeneity and counterfactual prediction. I am particularly interested in orthogonalised estimators (exploiting influence-functions).
+
+I am also co-lead in a collaborative research project "Developing statistical machine learning methods for Clinical Trials" based at the Alan Turing Institute. We are building machine learning models to predict trial site risk of under-performing (in the sense of low quality data, high rate of missing data or higher than expected adverse events, for example).
+
+I am interested in studying fairness and explainability of prediction models and heterogeneous treatments effects (through the lens of causal inference).
+
+## PhD supervision
+
+I am happy to supervise new PhD students starting in September 2024.
+
+### Current students:
+
+Matt Pryce (2021 - present): MRC London Intercollegiate Doctoral scholarship studying double-robust methods with machine learning for survival analysis in high dimensional settings.
+
+Rebecca Xu (2021- present) : ESRC Doctoral Scholarship studying extensions to target trial emulation for group policy evaluation, in collaboration with the Health Foundation.
+
+### Former PhD students:
+
+Dr Oliver Hines (awarded 2023): \`\`Assumption-Lean Inference for Causal and Statistical Questions in the Era of Machine
+
+Learning'' Funded by an MRC London Intercollegiate Doctoral scholarship (jointly supervised with Prof Stijn Vansteelandt)
+
+Dr Schadrac Agbla (awarded 2019): Instrumental Variable methods for adjusting for nonadherence in cluster randomised trials (joint with Prof Bianca DeStavola).
+
+Dr Anower Hossain (awarded 2017): Missing data methodology for cluster randomised trials (joint with Dr Jonathan Bartlett).
+
+## Other
+
+I am a member of the steerting committee for the European Causal Inference Meeting (EuroCIM).

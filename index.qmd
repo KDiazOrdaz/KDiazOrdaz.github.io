@@ -1,0 +1,23 @@
+---
+title: "Karla DiazOrdaz"
+about: 
+  template: trestles
+  image: profile.png
+  image-shape: rounded 
+  image-width: 15em 
+  links: 
+    - text: twitter 
+      href: https://twitter.com/karlado 
+    - text: GitHub 
+      href: https://github.com/KDiazOrdaz
+    - text: Email 
+      href: mailto:karla.diaz-ordaz@ucl.ac.uk 
+---
+
+# About me
+
+I am a Principal Research Fellow in the Statistical Science Department at University College London and an honorary Professor of Biostatistics at the London School of Hygiene and Tropical Medicine. I am a Royal Society- Wellcome Trust Sir Henry Dale Fellow (2020-2025).
+
+My research explores the potential of statistical machine learning in combination with causal inference methodology to assist in the medical and policy decisions. I oversee a small research group based at the Alan Turing Institute.
+
+Our work currently focuses on optimal policy learning (i.e. optimal treatment regimens), treatment effect heterogeneity and counterfactual prediction. This includes theoretical developments, novel methodology, and applied data science in policy evaluation, pharmaco-epidemiology and clinical trials.

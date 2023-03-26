@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Karla DiazOrdaz"
+  navbar:
+   background: primary
+   left:
+     - href: index.qmd
+       text: Home
+     - about.qmd
+     - publications.qmd 
+     - CV.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual

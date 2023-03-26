@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "mypersonalwebsite",
+    "section": "",
+    "text": "title: “Karla DiazOrdaz” image: profile.png about: template: trestles image-shape: rounded image-width: 15em links: - text: Google Scholar href: “https://scholar.google.com/citations?user=GSGcT-EAAAAJ&hl” - icon: twitter text: Twitter href: https://twitter.com/karlado - - icon: github text: GitHub href: https://github.com/KDiazOrdaz - text: Email href: mailto:karla.diaz-ordaz@ucl.ac.uk"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  }
+]

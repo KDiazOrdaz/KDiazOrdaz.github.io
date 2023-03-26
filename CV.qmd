@@ -1,0 +1,33 @@
+---
+title: "CV"
+---
+
+# Education
+
+-   M.Sc. in Medical Statistics, London School of Hygiene and Tropical Medicine, 2012
+-   Ph.D in Mathematics, Imperial College London, 2006
+
+# Work experience
+
+-   October 2022: Principal Research Fellow
+    -   Statistical Science Department, UCL
+-   August 2021: Professor of Biostatistics
+    -   Department of Medical Statistics, London School of Hygiene and Tropical Medicine
+    -   Co-director of Centre for Statistical Methodology
+-   August 2018 - 2021: Associate Professor
+    -   London School of Hygiene and Tropical Medicine
+
+# Current Funding
+
+-   Co-Investigator research grant \`\`Methods for fairness in clinical prediction modelling: data augmentation, doubly-robust procedures, and value-of-information analyses to evaluate and minimise biases''. Funded by Alan Turing Institute and Roche March 2023 -- Mar 2025
+-   Sir Henry Dale Fellowship \`\`Machine learning for causal inference: developing modern tools for personalised optimal treatments'' Wellcome Trust - Royal Society August 2020-- October 2025.
+-   Principal Investigator, Research project \`\`Statistical machine learning for randomized clinical trials''\
+    Alan Turing Institute research grant (funded by AI for Society programme, EPSRC strategic funding) January 2020-- March 2023.
+
+# Service and leadership
+
+-   member of the steering committee for the European Causal Inference Meeting EuroCIM
+
+-   associate editor of *Biometrics*
+
+-   panel member for the MRC Career Development Awards (Clinical) 2020-2022
