@@ -10,8 +10,8 @@ about:
       href: https://twitter.com/karlado 
     - text: GitHub 
       href: https://github.com/KDiazOrdaz
-    - text: Email 
-      href: mailto:karla.diaz-ordaz@ucl.ac.uk 
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=GSGcT-EAAAAJ&hl=en
 ---
 
 # About me
